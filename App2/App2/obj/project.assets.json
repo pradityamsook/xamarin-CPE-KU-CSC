@@ -480,11 +480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leon\\source\\repos\\App2\\App2\\App2.csproj",
+      "projectUniqueName": "C:\\Users\\Leon\\source\\repos\\xamarin-CPE-KU-CSC\\App2\\App2\\App2.csproj",
       "projectName": "App2",
-      "projectPath": "C:\\Users\\Leon\\source\\repos\\App2\\App2\\App2.csproj",
+      "projectPath": "C:\\Users\\Leon\\source\\repos\\xamarin-CPE-KU-CSC\\App2\\App2\\App2.csproj",
       "packagesPath": "C:\\Users\\Leon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leon\\source\\repos\\App2\\App2\\obj\\",
+      "outputPath": "C:\\Users\\Leon\\source\\repos\\xamarin-CPE-KU-CSC\\App2\\App2\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

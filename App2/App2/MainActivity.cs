@@ -15,6 +15,27 @@ namespace App2
 
         private TextView textView1;
         private int number = 0;
+
+        private void colorChange(int num)
+        {
+            if (num < 0)
+            {
+                textView1.SetBackgroundColor(Android.Graphics.Color.White);
+            }
+            else if (num >= 0 && num <= 10)
+            {
+                textView1.SetBackgroundColor(Android.Graphics.Color.Yellow);
+            }
+            else if (num > 10 && num <= 20)
+            {
+                textView1.SetBackgroundColor(Android.Graphics.Color.Green);
+            }
+            else
+            {
+                textView1.SetBackgroundColor(Android.Graphics.Color.Red);
+            }
+        }
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -26,46 +47,15 @@ namespace App2
             {
                 number += 1;
                 textView1.Text = number.ToString();
-
-                if (number < 0)
-                {
-                    textView1.SetBackgroundColor(Android.Graphics.Color.White);
-                }
-                else if (number >= 0 && number <= 10)
-                {
-                    textView1.SetBackgroundColor(Android.Graphics.Color.Yellow);
-                }
-                else if (number > 10 && number <= 20)
-                {
-                    textView1.SetBackgroundColor(Android.Graphics.Color.Green);
-                }
-                else
-                {
-                    textView1.SetBackgroundColor(Android.Graphics.Color.Red);
-                }
+                colorChange(number);
+                
             };
 
             FindViewById<Button>(Resource.Id.button2).Click += (o, e) =>
             {
                 number -= 1;
                 textView1.Text = number.ToString();
-
-                if (number < 0)
-                {
-                    textView1.SetBackgroundColor(Android.Graphics.Color.White);
-                }
-                else if (number >= 0 && number <= 10)
-                {
-                    textView1.SetBackgroundColor(Android.Graphics.Color.Yellow);
-                }
-                else if (number > 10 && number <= 20)
-                {
-                    textView1.SetBackgroundColor(Android.Graphics.Color.Green);
-                }
-                else
-                {
-                    textView1.SetBackgroundColor(Android.Graphics.Color.Red);
-                }
+                colorChange(number);
             };
         }
     }
