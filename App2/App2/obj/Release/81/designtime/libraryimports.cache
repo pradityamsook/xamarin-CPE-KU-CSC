@@ -5,6 +5,8 @@
     <ManifestDocument>obj\Release\81\lp\11\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\81\lp\12\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\81\lp\13\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\81\lp\14\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\81\lp\15\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\81\lp\3\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\81\lp\4\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\81\lp\6\jl\AndroidManifest.xml</ManifestDocument>
@@ -19,6 +21,8 @@
     <Jar>obj\Release\81\lp\11\jl\bin\classes.jar</Jar>
     <Jar>obj\Release\81\lp\12\jl\bin\classes.jar</Jar>
     <Jar>obj\Release\81\lp\13\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\81\lp\14\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\81\lp\15\jl\bin\classes.jar</Jar>
     <Jar>obj\Release\81\lp\2\jl\arch-lifecycle-common.jar</Jar>
     <Jar>obj\Release\81\lp\3\jl\bin\classes.jar</Jar>
     <Jar>obj\Release\81\lp\4\jl\bin\classes.jar</Jar>

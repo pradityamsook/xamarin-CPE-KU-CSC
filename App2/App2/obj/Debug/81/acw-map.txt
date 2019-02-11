@@ -1,3 +1,6 @@
+App2.Activity1, App2;md53e8ac37cdc5821b647af4d3184784491.Activity1
+App2.Activity1;md53e8ac37cdc5821b647af4d3184784491.Activity1
+app2.Activity1;md53e8ac37cdc5821b647af4d3184784491.Activity1
 App2.MainActivity, App2;md53e8ac37cdc5821b647af4d3184784491.MainActivity
 App2.MainActivity;md53e8ac37cdc5821b647af4d3184784491.MainActivity
 app2.MainActivity;md53e8ac37cdc5821b647af4d3184784491.MainActivity

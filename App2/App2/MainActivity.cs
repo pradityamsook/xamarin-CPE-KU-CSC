@@ -57,6 +57,11 @@ namespace App2
                 textView1.Text = number.ToString();
                 colorChange(number);
             };
+
+            FindViewById<Button>(Resource.Id.goToLayout1).Click += (o, e) =>
+            {
+                StartActivity(typeof(Activity1));
+            };
         }
     }
 }

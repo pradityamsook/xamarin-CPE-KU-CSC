@@ -2468,6 +2468,9 @@ namespace App2
 			// aapt resource value: 0x7F0C0034
 			public const int ghost_view = 2131492916;
 			
+			// aapt resource value: 0x7F010005
+			public const int goToLayout1 = 2130771973;
+			
 			// aapt resource value: 0x7F0C0035
 			public const int home = 2131492917;
 			
@@ -2985,6 +2988,9 @@ namespace App2
 			
 			// aapt resource value: 0x7F0F003C
 			public const int tooltip = 2131689532;
+			
+			// aapt resource value: 0x7F020003
+			public const int view = 2130837507;
 			
 			static Layout()
 			{
