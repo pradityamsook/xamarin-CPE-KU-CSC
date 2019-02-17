@@ -1,0 +1,11 @@
+C:\Users\Leon\source\repos\xamarin-CPE-KU-CSC\PhonewordMultiscreen\Phoneword\obj\Debug\81\android\assets\Phoneword.dll
+C:\Users\Leon\source\repos\xamarin-CPE-KU-CSC\PhonewordMultiscreen\Phoneword\obj\Debug\81\android\assets\Java.Interop.dll
+C:\Users\Leon\source\repos\xamarin-CPE-KU-CSC\PhonewordMultiscreen\Phoneword\obj\Debug\81\android\assets\Mono.Android.dll
+C:\Users\Leon\source\repos\xamarin-CPE-KU-CSC\PhonewordMultiscreen\Phoneword\obj\Debug\81\android\assets\mscorlib.dll
+C:\Users\Leon\source\repos\xamarin-CPE-KU-CSC\PhonewordMultiscreen\Phoneword\obj\Debug\81\android\assets\System.Core.dll
+C:\Users\Leon\source\repos\xamarin-CPE-KU-CSC\PhonewordMultiscreen\Phoneword\obj\Debug\81\android\assets\System.dll
+C:\Users\Leon\source\repos\xamarin-CPE-KU-CSC\PhonewordMultiscreen\Phoneword\obj\Debug\81\android\assets\System.Xml.dll
+C:\Users\Leon\source\repos\xamarin-CPE-KU-CSC\PhonewordMultiscreen\Phoneword\obj\Debug\81\android\assets\System.Net.Http.dll
+C:\Users\Leon\source\repos\xamarin-CPE-KU-CSC\PhonewordMultiscreen\Phoneword\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+C:\Users\Leon\source\repos\xamarin-CPE-KU-CSC\PhonewordMultiscreen\Phoneword\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Leon\source\repos\xamarin-CPE-KU-CSC\PhonewordMultiscreen\Phoneword\obj\Debug\81\android\assets\Mono.Security.dll
