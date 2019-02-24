@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App3"
+             x:Class="App3.MainPage">
+
+    <StackLayout>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Start">
+            <Image Margin="0,50,0,0" x:Name="imgBanner" Source="banner.png" ></Image>
+            <Image Margin="0,0,0,10" x:Name="imgXamarinEssential" Source="xamarinessential.png" ></Image>
+            <Label Margin="0,0,0,10" Text="Share" FontAttributes="Bold" FontSize="Large" TextColor="#CA6F1E" HorizontalTextAlignment="Center" ></Label>
+            <Entry x:Name="txtText" Placeholder="Type something..." ></Entry>
+            <Entry x:Name="txtURl" Placeholder="Type url..." ></Entry>
+            <Button x:Name="btnShare" Text="Share Text" Clicked="btnShare_Clicked"/>
+            <Button x:Name="btnShareUrl" Text="Share URL" Clicked="btnShareURL_Clicked"/>
+        </StackLayout>
+
+        <StackLayout>
+            <Button x:Name="btnAppInfo" Text="Info" Clicked="btnAppInfo_Clicked"/>
+            <Label Margin="0,0,0,10" FontAttributes="Bold" FontSize="Large" TextColor="#CA6F1E" HorizontalTextAlignment="Center" Text="Appinfo"></Label>
+            <Label HorizontalOptions="Center" x:Name="lblAppName"></Label>
+            <Label HorizontalOptions="Center" x:Name="lblVersion"></Label>
+            <Label HorizontalOptions="Center" x:Name="lblBuildNumber"></Label>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
